@@ -17,7 +17,7 @@
                 <div class="slds-media__figure">
                     <span class="slds-icon_container slds-icon-standard-account" title="Adobe Sign Templates">
                         <span class="slds-avatar slds-avatar--small" aria-hidden="true">
-                            <img src="{!$Resource.echosign_dev1__EchoSignTabLogo}" alt="" />
+                            <img src="{!$Resource.echosign_dev1__AdobeSign_AppIcon}" alt="" />
                         </span>
                         <span class="slds-assistive-text">Adobe Sign Templates</span> <lightning:spinner aura:id="mySpinner" size="small"/>
                     </span>
